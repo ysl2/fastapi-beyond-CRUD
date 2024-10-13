@@ -1,4 +1,4 @@
-# FastAPI Beyond CRUD 
+# FastAPI Beyond CRUD
 
 This is the source code for the [FastAPI Beyond CRUD](https://youtube.com/playlist?list=PLEt8Tae2spYnHy378vMlPH--87cfeh33P&si=rl-08ktaRjcm2aIQ) course. The course focuses on FastAPI development concepts that go beyond the basic CRUD operations.
 
@@ -28,7 +28,7 @@ Ensure you have the following installed:
     ```bash
     git clone https://github.com/jod35/fastapi-beyond-CRUD.git
     ```
-   
+
 2. Navigate to the project directory:
     ```bash
     cd fastapi-beyond-CRUD/
@@ -49,6 +49,8 @@ Ensure you have the following installed:
     ```bash
     cp .env.example .env
     ```
+
+    ![2024-10-13-21-58-25](assets/README/figures/2024-10-13-21-58-25.png)
 
 6. Run database migrations to initialize the database schema:
     ```bash
